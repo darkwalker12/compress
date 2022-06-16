@@ -14,3 +14,4 @@
 
 ### Fork Repo Then click on below button of ur fork repo.  
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy] (https://railway.app/new/template/zKaAt1?referralCode=pdhiUR)]
